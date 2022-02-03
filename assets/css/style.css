@@ -1,0 +1,56 @@
+#calculator {
+    padding: 10% 0%;
+    width: 100%;
+    max-width: 100%;
+}
+#calculator .calculator-content{
+    padding: 15px 10px;
+    box-shadow: rgb(194 14 14 / 25%) 0px 54px 55px, rgb(0 0 0 / 12%) 0px -12px 30px, rgb(0 0 0 / 12%) 0px 4px 6px, rgb(0 0 0 / 17%) 0px 12px 13px, rgb(0 0 0 / 9%) 0px -3px 5px;
+    width: 100%;
+    border-radius: 15px;
+    background: #000000;
+    max-width: 100%;
+    
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: inherit;
+
+}
+
+.first-row {
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    display: flex;
+}
+.Ac-btn {
+    width: 100%;
+    max-width: 50%;
+    padding: 0px 5px;
+}
+.multi-btn {
+    width: 100%;
+    max-width: 25%;
+    padding: 0px 5px;
+}
+#press {
+    height: 100px;
+}
+
+#exampleInputText{
+    text-align: end;
+    box-shadow: rgb(0 0 0 / 24%) 0px 3px 8px;
+    padding: 11px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.head{
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    font-size: 25px;
+}
